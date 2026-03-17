@@ -1,77 +1,51 @@
 <div align="center">
 
-# Hi there, I'm Dinushka 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1D9E75,100:0d1117&height=200&section=header&text=Dinushka%20Sandeepa&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CS%20Undergraduate&descAlignY=58&descColor=9FE1CB&animation=fadeIn)
 
-### Full Stack Developer · CS Undergraduate · Open to Internships
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinushka-sandeepa-8475a2344)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinushka.s.wickramaarachchi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dinushka20)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=1D9E75&center=true&vCenter=true&multiline=false&width=600&lines=Java+%2B+Spring+Boot+Developer;TypeScript+%2B+React+Builder;IoT+%2B+ML+Explorer;Open+to+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🎓 3rd-year **BSc (Hons) Computer Science** student at **SLIIT**, Sri Lanka
-- 🚀 Passionate about building clean, efficient **full-stack web applications**
-- 🌱 Currently deepening skills in **Spring Boot**, **TypeScript**, and **REST API design**
-- 🏆 **Top 20 Finalist** — Startup Spark Competition (Techno 2024) by IESL · University of Moratuwa
-- 🤝 Love collaborating on team projects and contributing to real-world solutions
-- 📫 Reach me at **dinushka.s.wickramaarachchi@gmail.com**
+Computer Science undergraduate at **SLIIT**, passionate about building scalable full-stack web applications and clean, efficient backend systems. I enjoy turning complex problems into simple, elegant solutions.
+
+- 🔧 **Backend Engineering** — Java & Spring Boot
+- 🎨 **Full-Stack Development** — React & TypeScript
+- 🔌 **IoT & ML** — Arduino, OpenCV & Python
+- 🔐 **API & Auth** — REST APIs & JWT
+- 🏆 **Top 20 Finalist** — Startup Spark Competition, Techno 2024 (IESL · UoM)
+- 📍 Malabe, Sri Lanka &nbsp;|&nbsp; 📬 dinushka.s.wickramaarachchi@gmail.com
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://skillicons.dev/icons?i=java)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Python](https://skillicons.dev/icons?i=python)
+![C](https://skillicons.dev/icons?i=c)
+![Spring](https://skillicons.dev/icons?i=spring)
+![React](https://skillicons.dev/icons?i=react)
+![Vite](https://skillicons.dev/icons?i=vite)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![Arduino](https://skillicons.dev/icons?i=arduino)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Postman](https://skillicons.dev/icons?i=postman)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
-**Backend**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Database & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🏥 DiagNote — Healthcare Management Web Application
-> **Aug 2024 – Nov 2024** · Java · Spring Boot · REST APIs · MySQL · TypeScript
-
-A full-stack healthcare platform with role-based authentication, appointment scheduling, digital prescriptions, and lab report management. Built a TypeScript frontend integrated with backend APIs; contributed to database design, backend services, and team collaboration.
-
-`Java` `Spring Boot` `MySQL` `TypeScript` `REST APIs`
-
----
-
-### 🚗 AlertEYE — Real-time Driver Monitoring & Rewarding System
-> **Nov 2023 – May 2024** · Arduino · Python · OpenCV · Android · Firebase
-
-A real-time driver safety system using IoT sensors, OpenCV-based computer vision, and Python ML models to detect fatigue. Built a companion Android app with Firebase real-time alerts and Google Maps integration.
-
-`Python` `OpenCV` `Arduino` `Android` `Firebase`
+</div>
 
 ---
 
@@ -79,9 +53,38 @@ A real-time driver safety system using IoT sensors, OpenCV-based computer vision
 
 <div align="center">
 
-![Dinushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dinushka20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Dinushka20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=1D9E75&icon_color=1D9E75&text_color=c9d1d9" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinushka20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1D9E75&text_color=c9d1d9" height="170"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinushka20&layout=compact&theme=tokyonight&hide_border=true)
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Dinushka20&theme=tokyonight&hide_border=true&background=0d1117&ring=1D9E75&fire=5DCAA5&currStreakLabel=1D9E75&sideLabels=9FE1CB&dates=888888)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dinushka20&theme=tokyo-night&bg_color=0d1117&color=1D9E75&line=1D9E75&point=5DCAA5&area=true&hide_border=true&area_color=1D9E75)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|---|---|---|
+| 🏥 **[DiagNote](https://github.com/Dinushka20)** | Full-stack healthcare platform — role-based auth, appointments, digital prescriptions & lab management | `Java` `Spring Boot` `MySQL` `TypeScript` |
+| 🚗 **[AlertEYE](https://github.com/Dinushka20)** | Real-time driver fatigue detection — IoT sensors, OpenCV ML, Android app with Firebase & Google Maps | `Python` `OpenCV` `Arduino` `Firebase` |
 
 </div>
 
@@ -89,25 +92,33 @@ A real-time driver safety system using IoT sensors, OpenCV-based computer vision
 
 ## 🏆 Achievements
 
-| Year | Achievement |
-|------|-------------|
-| 2024 | 🥇 Top 20 Finalist — Startup Spark Competition (Techno 2024), IESL · University of Moratuwa |
-
----
-
-## 📬 Let's Connect
-
-I'm actively looking for **software engineering internship** opportunities. Feel free to reach out!
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinushka-sandeepa-8475a2344)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinushka.s.wickramaarachchi@gmail.com)
+🥇 &nbsp;**Top 20 Finalist** — Startup Spark Competition (Techno 2024)  
+*IESL Student Chapter · University of Moratuwa · 2024*
 
 </div>
 
 ---
 
+## 🔗 Connect With Me
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dinushka20&color=1D9E75&style=flat-square&label=Profile+Views" />
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinushka-sandeepa-8475a2344)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinushka.s.wickramaarachchi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dinushka20)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Dinushka20&color=1D9E75&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1D9E75,100:0d1117&height=100&section=footer)
+
 </div>
