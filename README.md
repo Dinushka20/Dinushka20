@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=1D9E75&center=true&vCenter=true&multiline=false&width=600&lines=Java+%2B+Spring+Boot+Developer;TypeScript+%2B+React+Builder;IoT+%2B+ML+Explorer;Open+to+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=1D9E75&center=true&vCenter=true&multiline=false&width=600&lines=Java+%2B+Spring+Boot+Developer;C%23+%2B+ASP.NET+Core+Builder;TypeScript+%2B+React+Craftsman;DSL+%2B+Compiler+Engineer;IoT+%2B+ML+Explorer;Open+to+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,10 +16,11 @@
 
 Computer Science undergraduate at **SLIIT**, passionate about building scalable full-stack web applications and clean, efficient backend systems. I enjoy turning complex problems into simple, elegant solutions.
 
-- 🔧 **Backend Engineering** — Java & Spring Boot
+- 🔧 **Backend Engineering** — Java & Spring Boot · C# & ASP.NET Core
 - 🎨 **Full-Stack Development** — React & TypeScript
 - 🔌 **IoT & ML** — Arduino, OpenCV & Python
-- 🔐 **API & Auth** — REST APIs & JWT
+- 🔐 **API & Auth** — REST APIs, JWT & SignalR
+- 🧬 **Compilers & DSLs** — Flex, Bison & custom language design
 - 🏆 **Top 20 Finalist** — Startup Spark Competition, Techno 2024 (IESL · UoM)
 - 📍 Malabe, Sri Lanka &nbsp;|&nbsp; 📬 dinushka.s.wickramaarachchi@gmail.com
 
@@ -30,15 +31,19 @@ Computer Science undergraduate at **SLIIT**, passionate about building scalable 
 <div align="center">
 
 ![Java](https://skillicons.dev/icons?i=java)
+![CS](https://skillicons.dev/icons?i=cs)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![Python](https://skillicons.dev/icons?i=python)
 ![C](https://skillicons.dev/icons?i=c)
 ![Spring](https://skillicons.dev/icons?i=spring)
+![DotNet](https://skillicons.dev/icons?i=dotnet)
 ![React](https://skillicons.dev/icons?i=react)
 ![Vite](https://skillicons.dev/icons?i=vite)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
+![SQLServer](https://skillicons.dev/icons?i=mssql)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
+![Docker](https://skillicons.dev/icons?i=docker)
 ![Arduino](https://skillicons.dev/icons?i=arduino)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Postman](https://skillicons.dev/icons?i=postman)
@@ -85,6 +90,8 @@ Computer Science undergraduate at **SLIIT**, passionate about building scalable 
 |---|---|---|
 | 🏥 **[DiagNote](https://github.com/Dinushka20)** | Full-stack healthcare platform — role-based auth, appointments, digital prescriptions & lab management | `Java` `Spring Boot` `MySQL` `TypeScript` |
 | 🚗 **[AlertEYE](https://github.com/Dinushka20)** | Real-time driver fatigue detection — IoT sensors, OpenCV ML, Android app with Firebase & Google Maps | `Python` `OpenCV` `Arduino` `Firebase` |
+| 🛒 **[POS System](https://github.com/Dinushka20/POS-webapp)** | Full-stack Point of Sale platform — role-based JWT auth, real-time SignalR stock alerts, loyalty points, PDF receipts & Dockerized backend | `C#` `ASP.NET Core 8` `EF Core` `SQL Server` `TypeScript` `React` `Vite` |
+| 🧪 **[TestLang++](https://github.com/Dinushka20/TestLang)** | Domain Specific Language & full compiler for HTTP API testing — Flex lexer, Bison parser, AST-driven code gen producing executable JUnit 5 test classes | `C` `Flex` `Bison` `Yacc` `Java` |
 
 </div>
 
