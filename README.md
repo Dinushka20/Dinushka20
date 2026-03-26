@@ -1,83 +1,103 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117,1a3c34,1D9E75&height=220&section=header&text=Dinushka%20Sandeepa&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Architect%20%7C%20Compiler%20Alchemist%20%7C%20Systems%20Dreamer&descAlignY=68&descColor=9FE1CB" alt="Header">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1D9E75&height=220&section=header&text=Dinushka%20Sandeepa&fontSize=58&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20CS%20Undergraduate%20%40%20SLIIT&descAlignY=68&descColor=ffffff&animation=blinking" alt="Header" />
 </div>
 
 <br>
 
-```bash
-echo "Hello, I'm Dinushka 👋"
-echo "Crafting code that doesn't just run — it resonates."
-echo ""
-cat << "EOF"
-   ██████╗ ██╗███╗   ██╗██╗   ██╗███████╗██╗  ██╗██╗  ██╗ █████╗ 
-   ██╔══██╗██║████╗  ██║██║   ██║██╔════╝██║  ██║██║ ██╔╝██╔══██╗
-   ██║  ██║██║██╔██╗ ██║██║   ██║███████╗███████║█████╔╝ ███████║
-   ██║  ██║██║██║╚██╗██║╚██╗ ██╔╝╚════██║██╔══██║██╔═██╗ ██╔══██║
-   ██████╔╝██║██║ ╚████║ ╚████╔╝ ███████║██║  ██║██║  ██╗██║  ██║
-   ╚═════╝ ╚═╝╚═╝  ╚═══╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-EOF
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships%20(Spring%202026)-1D9E75?style=for-the-badge&logo=rocket&logoColor=white" alt="Open to Internships" />
+  <img src="https://img.shields.io/badge/Location-Malabe%2C%20Sri%20Lanka-1D9E75?style=for-the-badge&logo=map-pin&logoColor=white" alt="Location" />
+</div>
 
-🌌 whoami
-I'm a Computer Science undergraduate at SLIIT with a deep passion for building scalable, elegant systems. From crafting robust backends that power real-world applications to designing domain-specific languages that feel like poetry in code — I thrive at the intersection of engineering and creativity.
-Currently chasing Spring 2026 internship opportunities while turning ideas into production-ready solutions.
+---
 
-Backend Sorcerer — Java + Spring Boot • C# + .NET 8
-Full-Stack Artisan — TypeScript + React + Modern Tooling
-IoT & Vision Explorer — Arduino • OpenCV • Real-time Systems
-Language Architect — Flex • Bison • AST Magic • Code Generation
-Motto: Code that speaks. Systems that breathe.
+### 👋 Hey there, I'm Dinushka
 
-📍 Malabe, Sri Lanka
-📬 dinushka.s.wickramaarachchi@gmail.com
+**Computer Science undergraduate** at **SLIIT** with a strong passion for building **scalable, production-grade systems**. I love crafting clean backends, elegant full-stack applications, and occasionally diving into compilers, DSLs, and IoT + ML experiments.
 
-🛠️ Tech Arsenal
+I turn complex problems into simple, maintainable, and beautiful solutions. Currently focused on modern .NET ecosystems and Spring Boot microservices while polishing my React + TypeScript frontend skills.
 
-<img src="https://skillicons.dev/icons?i=java,spring" alt="Java">
-<img src="https://skillicons.dev/icons?i=cs,dotnet" alt=".NET">
-<img src="https://skillicons.dev/icons?i=ts,react,vite" alt="Frontend">
-<img src="https://skillicons.dev/icons?i=python,opencv" alt="Python">
-<img src="https://skillicons.dev/icons?i=docker,arduino,git,postman,mysql,mssql,firebase" alt="Systems">
+**Currently building:** A production-ready POS system with real-time features and exploring domain-specific languages for automated testing.
 
+---
 
-📊 My GitHub Pulse
+### 🛠️ What I Build With
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dinushka20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=1D9E75&icon_color=1D9E75&text_color=c9d1d9" height="165" alt="Stats">
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinushka20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1D9E75&text_color=c9d1d9" height="165" alt="Top Languages">
+<div align="center">
 
+**Core**  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-<img src="https://streak-stats.demolab.com?user=Dinushka20&#x26;theme=tokyonight&#x26;hide_border=true&#x26;background=0d1117&#x26;ring=1D9E75&#x26;fire=5DCAA5&#x26;currStreakLabel=1D9E75&#x26;sideLabels=9FE1CB" alt="Streak">
+**Frameworks & Tools**  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
+**Others**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-🌠 Signature Creations
-🏥 DiagNote
-A complete healthcare orchestration platform featuring role-based authentication, appointment management, digital prescriptions, and seamless lab integration.
-Tech: Java • Spring Boot • React + TypeScript • MySQL
-🚗 AlertEYE
-Real-time driver fatigue monitoring system using IoT sensors and computer vision. Delivers instant alerts through an Android app with live GPS tracking.
-Tech: Python • OpenCV • Arduino • Firebase • Google Maps
-🛒 POS System
-Modern retail infrastructure with real-time stock synchronization, loyalty engine, PDF receipt generation, and background processing.
-Tech: C# • ASP.NET Core 8 • EF Core • SignalR • Docker • React + TypeScript (separate frontend)
-🧪 TestLang++
-A custom Domain Specific Language and full compiler for writing elegant HTTP API tests. Transpiles into clean, executable JUnit 5 classes.
-Tech: C • Flex (Lexer) • Bison (Parser) • Java 21 Code Generation
+</div>
 
-🏆 Milestones
+---
 
-🥇 Top 20 Finalist — Startup Spark Competition
-Techno 2024 • IESL Student Chapter • University of Moratuwa
+### 🚀 Featured Projects
 
+**🏥 DiagNote**  
+Full-stack healthcare management platform with role-based authentication, appointment scheduling, digital prescriptions, and lab result management.  
+**Tech:** Java • Spring Boot • React + TypeScript • MySQL • JWT
 
-🔗 Connect in the Digital Realm
+**🚗 AlertEYE**  
+Real-time driver fatigue detection system using IoT sensors, computer vision (OpenCV), and an Android companion app with live location tracking.  
+**Tech:** Python • OpenCV • Arduino • Firebase • Google Maps
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&#x26;logo=linkedin&#x26;logoColor=white" alt="LinkedIn">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&#x26;logo=gmail&#x26;logoColor=white" alt="Gmail">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&#x26;logo=github&#x26;logoColor=white" alt="GitHub">
+**🛒 POS System** *(Actively Developing)*  
+Modern, production-grade Point of Sale platform featuring real-time stock alerts via SignalR, loyalty points engine, PDF receipt generation, background jobs, and fully Dockerized backend.  
+**Tech:** C# • ASP.NET Core 8 • EF Core • SignalR • Hangfire • QuestPDF • React + TypeScript + Vite • Docker
 
+**🧪 TestLang++**  
+A custom Domain Specific Language (DSL) and its full compiler for writing readable HTTP API tests. The compiler generates executable JUnit 5 test classes.  
+**Tech:** C • Flex • Bison • AST • Java 21 Code Generation
 
-<img src="https://komarev.com/ghpvc/?username=Dinushka20&#x26;color=1D9E75&#x26;style=for-the-badge&#x26;label=PROFILE%20EXPLORERS" alt="Views">
+---
 
+### 🏆 Achievements
 
+- **Top 20 Finalist** — Startup Spark Competition, Techno 2024  
+  *IESL Student Chapter • University of Moratuwa*
 
-  <img src="https://capsule-render.vercel.app/api?type=soft&#x26;color=0d1117,1D9E75&#x26;height=90&#x26;section=footer&#x26;text=One%20commit%20closer%20to%20the%20future" alt="Footer">
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dinushka20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinushka20&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Dinushka20&theme=tokyonight&hide_border=true" alt="Streak"/>
+</div>
+
+---
+
+### 🔗 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinushka-sandeepa-8475a2344)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinushka.s.wickramaarachchi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dinushka20)
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dinushka20&color=1D9E75&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>
