@@ -1,78 +1,101 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=32&duration=2000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=false&width=500&height=60&lines=✦+DINUSHKA+SANDEEPA+✦" alt="Name" />
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=400&size=18&duration=2500&pause=800&color=9CA3AF&center=true&vCenter=true&width=600&height=40&lines=full-stack+architect;compiler+engineer;iot+explorer;code+poet" alt="Roles" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117,1D9E75&height=140&section=header&text=Dinushka%20Sandeepa&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20Backend%20Engineer%20%7C%20CS%20Undergraduate&descAlignY=58&descColor=9FE1CB" alt="Header">
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=6C63FF,4A3BFF,2D1B69&height=4&width=800&section=header" />
-</div>
+<br>
 
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-### 🌊 **current.flow**
-
-```javascript
+```typescript
 const dinushka = {
-  status: "building cool stuff",
-  location: "🌏 malabe, sri lanka",
-  focus: ["backend systems", "compilers", "iot"],
-  currently: "seeking internship opportunities",
-  motto: "code that speaks, systems that breathe"
-}
-⚡ toolkit
-<div align="center">
-java spring c# .net typescript react python c arduino docker mysql
+  role: "Full-Stack Developer & CS Undergraduate",
+  location: "Malabe, Sri Lanka",
+  focus: "Scalable backends • Clean architecture • Compiler magic • IoT systems",
+  currently: "Building production-grade POS systems & exploring DSLs",
+  motto: "Code that speaks. Systems that breathe.",
+  availability: "Open to Spring 2026 internships 🚀"
+};
 
-</div><div align="center"> <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=&align=center&titleAlign=center&line1=java,java,ffffff,6C63FF;spring,spring,ffffff,6C63FF;c%23,c%23,ffffff,6C63FF;dotnet,dotnet,ffffff,6C63FF&line2=typescript,typescript,ffffff,6C63FF;react,react,ffffff,6C63FF;python,python,ffffff,6C63FF;c,c,ffffff,6C63FF&line3=arduino,arduino,ffffff,6C63FF;docker,docker,ffffff,6C63FF;mysql,mysql,ffffff,6C63FF;git,git,ffffff,6C63FF" alt="Tech Stack" /> </div>
-🧩 signature work
-<table align="center"> <tr> <td width="50%">
-diagnote 🏥
-healthcare orchestration
+🧑‍💻 About Me
+Hey! I'm Dinushka Sandeepa, a passionate Computer Science undergraduate at SLIIT. I love crafting scalable full-stack applications with a strong emphasis on robust backend systems and elegant problem-solving.
+I turn complex requirements into simple, maintainable code — whether it's designing a compiler, building real-time IoT solutions, or engineering enterprise-grade APIs.
 
-spring boot react mysql
+🔧 Backend — Java + Spring Boot · C# + ASP.NET Core 8
+🎨 Frontend — TypeScript + React + Vite
+🔌 IoT & ML — Arduino, OpenCV, Python
+🔐 Architecture — REST/GraphQL, JWT, SignalR, Clean Architecture, Docker
+🧬 Compilers & DSLs — Flex, Bison, AST design, code generation
+🏆 Achievement — Top 20 Finalist, Startup Spark Competition (Techno 2024 – IESL · University of Moratuwa)
 
-role-based access · digital prescriptions · lab integration
+📍 Malabe, Sri Lanka
+📬 dinushka.s.wickramaarachchi@gmail.com
 
-</td> <td width="50%">
-pos system 🛒
-retail infrastructure
+🛠️ Tech Stack
 
-.net 8 signalr docker
+<img src="https://skillicons.dev/icons?i=java,spring" alt="Java">
+<img src="https://skillicons.dev/icons?i=cs,dotnet" alt="C#">
+<img src="https://skillicons.dev/icons?i=ts,react,vite" alt="TypeScript">
+<img src="https://skillicons.dev/icons?i=python,opencv" alt="Python">
+<img src="https://skillicons.dev/icons?i=docker,mysql,mssql,firebase,arduino,postman,git,html,css" alt="Others">
 
-real-time alerts · loyalty engine · pdf receipts
 
-</td> </tr> <tr> <td width="50%">
-testlang++ 🧪
-dsl compiler
+📊 GitHub Stats
 
-flex bison java
+<img src="https://github-readme-stats.vercel.app/api?username=Dinushka20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=1D9E75&icon_color=1D9E75&text_color=c9d1d9" height="170" alt="Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinushka20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1D9E75&text_color=c9d1d9" height="170" alt="Top Languages"/>
 
-custom syntax · ast generation · junit output
 
-</td> <td width="50%">
-alertEYE 🚗
-driver safety
+<img src="https://streak-stats.demolab.com?user=Dinushka20&#x26;theme=tokyonight&#x26;hide_border=true&#x26;background=0d1117&#x26;ring=1D9E75&#x26;fire=5DCAA5&#x26;currStreakLabel=1D9E75&#x26;sideLabels=9FE1CB" alt="Streak">
 
-opencv arduino firebase
 
-fatigue detection · iot sensors · maps integration
+📈 Contribution Activity
 
-</td> </tr> </table>
-📊 the numbers
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dinushka20&theme=dark&bg_color=00000000&title_color=6C63FF&hide_border=true&layout=compact&range=last_30_days" height="140" /> <img src="https://github-readme-stats.vercel.app/api?username=Dinushka20&show_icons=true&theme=dark&bg_color=00000000&title_color=6C63FF&icon_color=6C63FF&hide_border=true&count_private=true&hide=issues" height="140" /> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Dinushka20&theme=dark&background=00000000&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&hide_border=true" height="120" /> </div><div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dinushka20&theme=2077&hide_border=true" width="80%" /> </div>
-🏆 milestones
-<div align="center">
-🥇	top 20 finalist · startup spark competition · techno 2024
-</div>
-🌌 connect
-<div align="center"> <a href="https://www.linkedin.com/in/dinushka-sandeepa-8475a2344"> <img src="https://img.shields.io/badge/-linkedin-0A0A0A?style=flat&logo=linkedin&logoColor=6C63FF&labelColor=0A0A0A" /> </a> &nbsp;&nbsp; <a href="mailto:dinushka.s.wickramaarachchi@gmail.com"> <img src="https://img.shields.io/badge/-gmail-0A0A0A?style=flat&logo=gmail&logoColor=6C63FF&labelColor=0A0A0A" /> </a> &nbsp;&nbsp; <a href="https://github.com/Dinushka20"> <img src="https://img.shields.io/badge/-github-0A0A0A?style=flat&logo=github&logoColor=6C63FF&labelColor=0A0A0A" /> </a> </div><div align="center"> <br/> <sub>✦ currently building: pos system backend & frontend ✦</sub> <br/> <sub>📬 open for internships · spring 2026</sub> </div><div align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=6C63FF,4A3BFF,2D1B69&height=2&width=800&section=footer" /> </div><div align="center"> <img src="https://komarev.com/ghpvc/?username=Dinushka20&color=6C63FF&style=flat&label=✦+wanderers+✦" /> </div> ```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinushka20&#x26;theme=tokyo-night&#x26;bg_color=0d1117&#x26;color=1D9E75&#x26;line=1D9E75&#x26;point=5DCAA5&#x26;area=true&#x26;hide_border=true" alt="Contribution Graph">
+
+
+🚀 Featured Projects
+🏥 DiagNote — Healthcare Management Platform
+Full-stack hospital system with role-based access control, appointment scheduling, digital prescriptions, and lab result management.
+Tech: Java • Spring Boot • React + TypeScript • MySQL
+🚗 AlertEYE — Driver Fatigue Detection System
+Real-time IoT + ML solution using sensors and computer vision to detect driver drowsiness and alert via Android app with live location tracking.
+Tech: Python • OpenCV • Arduino • Firebase • Google Maps
+🛒 POS System — Modern Point of Sale Platform
+Production-ready retail system with real-time stock alerts, loyalty engine, PDF receipts, and background job processing.
+Tech: C# • ASP.NET Core 8 • EF Core • SignalR • Hangfire • QuestPDF • Docker • React + TypeScript (separate frontend repo)
+Key Highlights:
+
+Role-based JWT auth (Admin, Manager, Cashier)
+Real-time notifications via SignalR
+Atomic inventory & loyalty point calculation
+Dockerized backend with multi-stage builds
+
+🧪 TestLang++ — Domain Specific Language & Compiler
+A custom DSL for writing readable HTTP API tests that compiles into executable JUnit 5 test classes.
+Tech: C • Flex (Lexer) • Bison (Parser) • AST • Java 21 code generation
+Features:
+
+Declarative syntax with variables, config blocks, and assertions
+Full compiler pipeline with detailed error reporting
+Generates production-ready tests targeting Spring Boot backends
+
+
+🏆 Achievements
+
+🥇 Top 20 Finalist — Startup Spark Competition, Techno 2024
+(IESL Student Chapter · University of Moratuwa)
+
+
+🔗 Let's Connect
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&#x26;logo=linkedin&#x26;logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&#x26;logo=gmail&#x26;logoColor=white" alt="Gmail">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&#x26;logo=github&#x26;logoColor=white" alt="GitHub">
+
+
+<img src="https://komarev.com/ghpvc/?username=Dinushka20&#x26;color=1D9E75&#x26;style=for-the-badge&#x26;label=PROFILE+VIEWS" alt="Profile Views">
+
+
+
+  <img src="https://capsule-render.vercel.app/api?type=soft&#x26;color=0d1117,1D9E75&#x26;height=80&#x26;section=footer&#x26;text=Building%20the%20future%20one%20commit%20at%20a%20time" alt="Footer">
+
+```
