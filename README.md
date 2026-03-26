@@ -1,75 +1,202 @@
-🪐 Dinushka Sandeepa
+<!-- ============================================================
+     DINUSHKA SANDEEPA — GitHub Profile README
+     Design: Editorial dark terminal aesthetic, no capsule-render
+     ============================================================ -->
 
-Full-Stack Engineer • CS Undergraduate • Compiler Enthusiast
+<div align="center">
 
-🖋️ Executive Summary
+```
+██████╗ ██╗███╗   ██╗██╗   ██╗███████╗██╗  ██╗██╗  ██╗ █████╗
+██╔══██╗██║████╗  ██║██║   ██║██╔════╝██║  ██║██║ ██╔╝██╔══██╗
+██║  ██║██║██╔██╗ ██║██║   ██║███████╗███████║█████╔╝ ███████║
+██║  ██║██║██║╚██╗██║██║   ██║╚════██║██╔══██║██╔═██╗ ██╔══██║
+██████╔╝██║██║ ╚████║╚██████╔╝███████║██║  ██║██║  ██╗██║  ██║
+╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-I am a Full-Stack Developer based in Malabe, Sri Lanka, specializing in building high-performance backend systems and interactive frontend experiences. Beyond standard web development, I dive deep into Low-Level Engineering (Compilers/DSLs) and Hardware Integration (IoT/ML).
+**`Full-Stack Engineer · CS Undergraduate · SLIIT`**
 
-Currently focusing on Clean Architecture in .NET 8 and Microservices with Spring Boot.
+[![Visitors](https://komarev.com/ghpvc/?username=Dinushka20&color=00ff88&style=flat-square&label=profile+views)](https://github.com/Dinushka20)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/–%20LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinushka-sandeepa-8475a2344)
+&nbsp;
+[![Email](https://img.shields.io/badge/–%20Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dinushka.s.wickramaarachchi@gmail.com)
 
-🛠️ Technical Ecosystem
+</div>
 
-Category
+---
 
-Technologies
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinushka20&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=8b949e&langs_count=8" />
 
-Backend & APIs
+### `> whoami`
 
-Java (Spring Boot) C# (.NET 8 Core) REST SignalR JWT
+CS undergraduate at **SLIIT** who builds things that *actually ship*.  
+I work across the full stack — from compiler internals to cloud-deployed APIs  
+to real-time IoT systems.
 
-Frontend & UI
+```yaml
+focus:    backend-first full-stack development
+building: healthcare SaaS, POS platforms, DSL compilers
+learning: system design, distributed systems
+open_to:  internships & collaborative projects
+location: Malabe, Sri Lanka  🌏
+```
 
-TypeScript React.js Vite Tailwind CSS Framer Motion
+<br clear="right"/>
 
-Systems & Data
+---
 
-MySQL SQL Server Firebase Docker Entity Framework
+### `> ls skills/`
 
-Research & IoT
+<table>
+<tr>
+<td valign="top" width="33%">
 
-Python (OpenCV) C Arduino Flex/Bison (Compiler Design)
+**Languages**
+```
+Java        ████████████ core
+C#          ████████████ core
+TypeScript  ███████████░ strong
+JavaScript  ███████████░ strong
+Python      ████████░░░░ proficient
+C           ███████░░░░░ systems
+```
 
-🚀 High-Impact Projects
+</td>
+<td valign="top" width="33%">
 
-🏥 DiagNote | Healthcare Ecosystem
+**Frameworks & Runtime**
+```
+Spring Boot    backend APIs
+ASP.NET Core   backend APIs
+React + Vite   frontend SPA
+Entity Framework  ORM
+SignalR        real-time
+JUnit 5        testing
+```
 
-A comprehensive medical management system designed for scale.
+</td>
+<td valign="top" width="33%">
 
-Core Tech: Spring Boot, MySQL, React, TypeScript.
+**Infrastructure & Tools**
+```
+MySQL / SQL Server  relational
+Firebase            NoSQL/auth
+Docker              containers
+REST / JWT          API & auth
+OpenCV              computer vision
+Arduino             embedded IoT
+```
 
-Innovation: Implemented a complex role-based authorization flow for Doctors, Patients, and Labs; digital prescription engine with real-time status updates.
+</td>
+</tr>
+</table>
 
-🚗 AlertEYE | Computer Vision & IoT
+---
 
-Real-time driver fatigue monitoring system to prevent road accidents.
+### `> cat projects.json`
 
-Core Tech: Python (OpenCV), Arduino, Firebase, Android.
+<details open>
+<summary><b>🏥 DiagNote</b> — Healthcare Platform</summary>
 
-Innovation: Developed a custom eye-closure duration algorithm integrated with hardware sirens and remote Firebase logging for fleet management.
+> Full-stack web application for end-to-end clinical workflows
 
-🛒 Enterprise POS | Full-Stack Commerce
+- **Role-based access control** with JWT across Doctor / Patient / Admin roles
+- Digital prescription management & lab result tracking
+- Appointment scheduling with real-time calendar sync
+- **Stack:** `Java` · `Spring Boot` · `MySQL` · `TypeScript` · `React`
 
-High-concurrency Point of Sale system built on .NET 8.
+</details>
 
-Core Tech: ASP.NET Core 8, React, SQL Server, SignalR.
+<details open>
+<summary><b>🛒 POS System</b> — Point of Sale Platform</summary>
 
-Innovation: Features real-time stock low-level alerts via SignalR WebSockets and a PDF generation engine for automated invoicing.
+> Enterprise-grade retail management with real-time inventory
 
-🧪 TestLang++ | Compiler Engineering
+- JWT-secured role-based login (Cashier / Manager / Admin)
+- **SignalR** WebSocket integration for live low-stock alerts
+- Loyalty points engine, PDF receipt generation
+- Dockerized backend for portable deployment
+- **Stack:** `C#` · `ASP.NET Core 8` · `EF Core` · `SQL Server` · `TypeScript` · `React` · `Docker`
 
-A Domain Specific Language (DSL) specifically for HTTP API testing.
+→ [`github.com/Dinushka20/POS-webapp`](https://github.com/Dinushka20/POS-webapp)
 
-Core Tech: C, Flex, Bison, Java.
+</details>
 
-Innovation: Built a full lexer and parser that transforms custom test scripts into executable JUnit 5 Java classes using Abstract Syntax Trees (AST).
+<details open>
+<summary><b>🧪 TestLang++</b> — Domain-Specific Language & Compiler</summary>
 
-📊 Performance Metrics
+> A full compiler pipeline for writing HTTP API test suites in a custom DSL
 
-🏆 Recognitions
+- Hand-written **Flex lexer** + **Bison parser** → typed AST
+- AST-driven code generation emitting valid, executable **JUnit 5** test classes
+- Supports assertions, variables, loops, and request chaining
+- **Stack:** `C` · `Flex` · `Bison` · `Yacc` · `Java`
 
-Top 20 Finalist | Startup Spark Competition (Techno 2024)
+→ [`github.com/Dinushka20/TestLang`](https://github.com/Dinushka20/TestLang)
 
-Recognized by IESL & University of Moratuwa for innovation in tech-entrepreneurship.
+</details>
 
-🔗 Let's Build Something
+<details open>
+<summary><b>🚗 AlertEYE</b> — Driver Fatigue Detection System</summary>
+
+> IoT + ML system for real-time drowsiness detection on embedded hardware
+
+- **OpenCV** facial landmark detection for eye-aspect-ratio analysis
+- Arduino sensors (eye blink, head tilt) feeding into ML pipeline
+- Android companion app with **Firebase** sync & **Google Maps** integration
+- **Stack:** `Python` · `OpenCV` · `Arduino` · `Firebase` · `Android`
+
+</details>
+
+---
+
+### `> git stats --global`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dinushka20&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=8b949e&ring_color=00ff88" height="160"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com?user=Dinushka20&hide_border=true&background=0d1117&ring=00ff88&fire=00cc66&currStreakLabel=00ff88&sideLabels=8b949e&dates=555e6a&stroke=1c1c1c" height="160"/>
+
+</div>
+
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dinushka20&theme=tokyo-night&bg_color=0d1117&color=00ff88&line=00ff88&point=00cc66&area=true&hide_border=true&area_color=00ff88&custom_title=contribution+activity)
+
+</div>
+
+---
+
+### `> achievements --notable`
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  🥇  TOP 20 FINALIST                                         │
+│      Startup Spark Competition — Techno 2024                 │
+│      IESL Student Chapter · University of Moratuwa          │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### `> ping --contact`
+
+<div align="center">
+
+| Channel | Link |
+|---|---|
+| 💼 LinkedIn | [dinushka-sandeepa-8475a2344](https://www.linkedin.com/in/dinushka-sandeepa-8475a2344) |
+| 📬 Email | [dinushka.s.wickramaarachchi@gmail.com](mailto:dinushka.s.wickramaarachchi@gmail.com) |
+| 🐙 GitHub | [@Dinushka20](https://github.com/Dinushka20) |
+
+</div>
+
+---
+
+<div align="center">
+<sub>
+built with intent, not a template generator &nbsp;·&nbsp; Malabe, Sri Lanka &nbsp;·&nbsp; 2025
+</sub>
+</div>
