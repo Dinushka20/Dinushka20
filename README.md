@@ -1,112 +1,97 @@
-<div align="center">
+🚀 Dinushka Sandeepa
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00c853,100:00e676&height=150&section=header&text=&fontSize=0" width="100%"/>
+Full-Stack Engineer & Compiler Enthusiast
 
-# Hey, I'm Dinushka 👋
+Building scalable systems from the hardware up to the cloud.
 
-**`Full-Stack Engineer · Compiler Nerd · CS @ SLIIT`**
+LinkedIn • Portfolio • Email
 
-I build enterprise systems by day and design programming languages for fun.  
-Based in Sri Lanka 🇱🇰 · Open to opportunities 🚀
+🧬 At a Glance
 
-<br/>
+I am a Computer Science Undergraduate at SLIIT specializing in high-performance backend systems and interactive full-stack applications. My work spans from low-level compiler design to high-level enterprise architecture.
 
-[![LinkedIn](https://img.shields.io/badge/-Dinushka-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinushka-sandeepa-8475a2344)
-[![Gmail](https://img.shields.io/badge/-Email_Me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dinushka.s.wickramaarachchi@gmail.com)
-[![GitHub](https://img.shields.io/badge/-Dinushka20-181717?style=flat&logo=github&logoColor=white)](https://github.com/Dinushka20)
-![Views](https://komarev.com/ghpvc/?username=Dinushka20&color=00c853&style=flat&label=visitors)
+🔭 Currently focusing on: Microservices architecture and Cloud-native development.
 
-</div>
+🧪 Research Interests: Domain-Specific Languages (DSLs) and automated testing frameworks.
 
----
+🏆 Recent Win: Top 20 Finalist at Techno 2024 Startup Spark (University of Moratuwa).
 
-### ⚡ What I Work With
+⚡ Philosophy: Code should be self-documenting, and systems should be resilient.
 
-```text
-Languages    →  Java · C# · TypeScript · Python · C
-Backend      →  Spring Boot · ASP.NET Core 8 · EF Core · SignalR · JWT
-Frontend     →  React · Vite · Tailwind CSS
-Data         →  SQL Server · MySQL · Firebase
-Infra        →  Docker · Git · Postman · Arduino
-Compiler     →  Flex (Lex) · Bison (Yacc) · JUnit 5 codegen
-```
+🛠️ Specialized Tech Stack
 
----
+Area
 
-### 🔨 What I've Built
+Technologies
 
-<details>
-<summary><b>🏪 POS System</b> — Enterprise Point of Sale &nbsp; <code>C#</code> <code>React</code> <code>SQL Server</code></summary>
-<br/>
+Backend
 
-> Full-stack POS platform with clean architecture, role-based JWT auth (Admin/Manager/Cashier), real-time SignalR stock alerts, customer loyalty points, PDF receipts, and Dockerized deployment.
+Java / Spring Boot C# / ASP.NET Core Python Node.js
 
-**Backend** → [`POS-webapp`](https://github.com/Dinushka20/POS-webapp) — ASP.NET Core 8 · EF Core · Hangfire · SignalR  
-**Frontend** → [`POS-frontend`](https://github.com/Dinushka20/POS-frontend) — TypeScript · React · Vite · Tailwind · shadcn/ui
+Frontend
 
-</details>
+React TypeScript Vite Tailwind CSS Redux
 
-<details>
-<summary><b>🧬 TestLang++</b> — DSL & Compiler for API Testing &nbsp; <code>C</code> <code>Flex</code> <code>Bison</code></summary>
-<br/>
+Database
 
-> A custom programming language that compiles `.test` specifications into executable JUnit 5 test classes for HTTP API testing.
+MySQL PostgreSQL SQL Server Firebase
 
-**Pipeline** → `.test` file → Flex Lexer → Bison Parser → AST → Java CodeGen → `.java`  
-**Repo** → [`TestLang`](https://github.com/Dinushka20/TestLang)
+DevOps & Tools
 
-</details>
+Docker Git GitHub Actions Postman Linux
 
-<details>
-<summary><b>🏥 DiagNote</b> — Healthcare Management Platform &nbsp; <code>Java</code> <code>Spring Boot</code> <code>MySQL</code></summary>
-<br/>
+Low-Level/IoT
 
-> Full-stack healthcare system with role-based access for doctors, patients, and admins. Handles appointments, digital prescriptions, and lab report management.
+C Flex/Bison Arduino OpenCV
 
-</details>
+🏗️ Featured Engineering Projects
 
-<details>
-<summary><b>🚗 AlertEYE</b> — Real-Time Driver Fatigue Detection &nbsp; <code>Python</code> <code>OpenCV</code> <code>Arduino</code></summary>
-<br/>
+🏥 DiagNote | Healthcare Ecosystem
 
-> IoT + ML system that detects driver drowsiness using OpenCV face/eye detection, MQ-3 alcohol sensor, with an Android app connected via Firebase and Google Maps for location tracking.
+Full-Stack (Spring Boot / React)
 
-</details>
+Engineered a modular healthcare platform featuring Role-Based Access Control (RBAC) and secure JWT authentication.
 
----
+Integrated digital prescription modules and a laboratory management system with real-time status updates.
 
-### 📊 Stats
+Optimized database queries for patient records, ensuring low-latency data retrieval.
 
-<div align="center">
+🚗 AlertEYE | IoT Driver Safety
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Dinushka20&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=00c853&icon_color=00c853&text_color=777" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinushka20&layout=compact&hide_border=true&bg_color=00000000&title_color=00c853&text_color=777&langs_count=6" />
+Computer Vision & Embedded Systems (Python / Arduino / Firebase)
 
-</div>
+Developed a real-time fatigue detection system using OpenCV and EAR (Eye Aspect Ratio) algorithms.
 
-<div align="center">
+Built a cross-platform synchronization layer using Firebase to alert emergency contacts via an Android app.
 
-<img width="60%" src="https://streak-stats.demolab.com?user=Dinushka20&hide_border=true&background=00000000&ring=00c853&fire=00e676&currStreakLabel=00c853&sideLabels=00c853&dates=555555&currStreakNum=777&sideNums=777" />
+Awarded for innovation in road safety technology at Techno 2024.
 
-</div>
+🛒 POS-Webapp | Enterprise Retail System
 
-<div align="center">
+Full-Stack (.NET 8 / React / Docker)
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dinushka20&bg_color=00000000&color=00c853&line=00c853&point=ffffff&area=true&hide_border=true&area_color=00c85320" />
+Built a high-concurrency POS system with SignalR for real-time inventory alerts and stock-out notifications.
 
-</div>
+Implemented a loyalty engine and automated PDF receipt generation via server-side reporting.
 
----
+Containerized the entire environment using Docker for seamless deployment and scaling.
 
-<div align="center">
+🧪 TestLang++ | Compiler Design
 
-🏅 **Top 20 Finalist** — Startup Spark Competition · Techno 2024 (IESL · UoM)  
-🦈 **Pull Shark x2** — GitHub Achievement
+Language Engineering (C / Flex / Bison / Java)
 
-</div>
+Designed a proprietary Domain-Specific Language (DSL) specifically for REST API testing.
 
----
+Built a full compiler pipeline: Lexical analysis (Flex), Syntax parsing (Bison), and AST-driven code generation.
 
-<div align="center">
-<sub>⚡ Building things that matter — one commit at a time</sub>
-</div>
+The compiler emits executable JUnit 5 test suites from high-level "TestLang" scripts.
+
+📊 Developer Metrics
+
+🤝 Let's Collaborate
+
+Always open to discussing Backend Engineering, Compiler Design, or Internships.
+
+
+
+© 2024 Dinushka Sandeepa
