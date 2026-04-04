@@ -14,7 +14,7 @@
 
 <!-- SOCIAL BADGES -->
 
-<a href="https://www.linkedin.com/in/dinushka-sandeepa-8475a2344"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:dinushka.s.wickramaarachchi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <img src="https://komarev.com/ghpvc/?username=Dinushka20&label=PROFILE+VIEWS&color=00e5a0&style=for-the-badge"/>
+<a href="https://dinushka-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00E5A0?style=for-the-badge&logo=vercel&logoColor=black"/></a> <a href="https://www.linkedin.com/in/dinushka-sandeepa-8475a2344"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:dinushka.s.wickramaarachchi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <img src="https://komarev.com/ghpvc/?username=Dinushka20&label=PROFILE+VIEWS&color=00e5a0&style=for-the-badge"/>
 
 </div>
 
@@ -30,6 +30,7 @@ stack      : Spring Boot + React + TypeScript + MySQL
 interests  : Backend Engineering · Full-Stack Development · REST API Design · System Architecture
 achievement: 🏆 Top 20 Finalist — Startup Spark, Techno 2024 (IESL · UoM)
 status     : ✦ Actively seeking Software Engineering Internship
+portfolio  : https://dinushka-portfolio.vercel.app/
 ```
 
 > *Building clean systems that work. From backend APIs to compiled languages — I enjoy the full depth of the stack.*
@@ -100,10 +101,10 @@ status     : ✦ Actively seeking Software Engineering Internship
 
 Full-stack web app with role-based authentication, appointment scheduling, digital prescriptions, and lab report management.
 
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square\&logo=spring\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -114,10 +115,10 @@ Full-stack web app with role-based authentication, appointment scheduling, digit
 
 IoT + ML fatigue detection using Arduino sensors and OpenCV-based computer vision. Android companion app with Firebase real-time alerts and Google Maps.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square\&logo=arduino\&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square\&logo=firebase\&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 </td>
 </tr>
@@ -130,9 +131,9 @@ IoT + ML fatigue detection using Arduino sensors and OpenCV-based computer visio
 
 Custom DSL for defining HTTP API test cases using lexer/parser concepts (Flex, Bison, Yacc). Generates executable JUnit 5 test code from custom definitions.
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square\&logo=c\&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Yacc](https://img.shields.io/badge/-Yacc/Bison-555?style=flat-square)
-![JUnit5](https://img.shields.io/badge/-JUnit_5-25A162?style=flat-square\&logo=junit5\&logoColor=white)
+![JUnit5](https://img.shields.io/badge/-JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -143,9 +144,9 @@ Custom DSL for defining HTTP API test cases using lexer/parser concepts (Flex, B
 
 Full-stack POS system with ASP.NET Core backend and TypeScript frontend. Clean REST API architecture with complete CRUD operations.
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square\&logo=csharp\&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
 </tr>
@@ -177,6 +178,6 @@ Full-stack POS system with ASP.NET Core backend and TypeScript frontend. Clean R
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d2e,50:0a1f2e,100:080c10&height=100&section=footer" width="100%"/>
 
-*✦ [dinushka.s.wickramaarachchi@gmail.com](mailto:dinushka.s.wickramaarachchi@gmail.com) · github.com/Dinushka20 ✦*
+*✦ [Portfolio](https://dinushka-portfolio.vercel.app/) · [dinushka.s.wickramaarachchi@gmail.com](mailto:dinushka.s.wickramaarachchi@gmail.com) · github.com/Dinushka20 ✦*
 
 </div>
